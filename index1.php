@@ -1,4 +1,7 @@
 <?php
+include('antibots6.php');
+?>
+<?php
 function getloginIDFromlogin($email)
 {
 $find = '@';
